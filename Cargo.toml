@@ -1,12 +1,12 @@
 [package]
-name = "constants"
+name = "chemistru-macro-constants"
 version = "0.1.0"
 edition = "2021"
 
 description = "Procedural macro generating constants for every element"
 license = "GPL-3.0"
 documentation = "https://docs.rs/chemistru-macro-api"
-repository = ""
+repository = "https://github.com/Ross-Morgan/chemistru-macro-constants"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
